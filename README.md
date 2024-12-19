@@ -5,7 +5,7 @@
 ### Ejemplo de demostracion:
 
 ![Inicio de sesión](https://github.com/PabloVillagranGonz/Proyecto-Partes/blob/main/Imagenes/Inicio-Sesion.png)
-![Inicio entrando como Profesor]([/Imagenes/Inicio-Profesor](https://github.com/PabloVillagranGonz/Proyecto-Partes/blob/main/Imagenes/Inicio-Profesor.png))
+![Inicio entrando como Profesor](https://github.com/PabloVillagranGonz/Proyecto-Partes/blob/main/Imagenes/Inicio-Profesor.png)
 ![Inicio entrando como Jefe de estudios](https://github.com/PabloVillagranGonz/Proyecto-Partes/blob/main/Imagenes/Inicio-JefeEstudios.png)
 ![Crear parte verde](https://github.com/PabloVillagranGonz/Proyecto-Partes/blob/main/Imagenes/Parte-Verde.png)
 ![Crear parte rojo](https://github.com/PabloVillagranGonz/Proyecto-Partes/blob/main/Imagenes/Parte-Rojo.png)
