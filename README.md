@@ -4,7 +4,7 @@
 
 ### Ejemplo de demostracion:
 
-![Inicio de sesión](/Imagenes/Inicio-Sesion)
+![Inicio de sesión](https://github.com/PabloVillagranGonz/Proyecto-Partes/blob/main/Imagenes/Inicio-Sesion.png)
 ![Inicio entrando como Profesor](/Imagenes/Inicio-Profesor)
 ![Inicio entrando como Jefe de estudios](/Imagenes/Inicio-JefeEstudios)
 ![Crear parte verde](/Imagenes/Parte-Verde)
