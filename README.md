@@ -4,4 +4,4 @@
 
 ### Ejemplo de demostracion:
 
-![Inicio de sesión](/Users/pablo/Documents/inicio-sesion)
+![Inicio de sesión](/Documents/inicio-sesion)
