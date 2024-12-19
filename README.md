@@ -3,7 +3,8 @@
 ## Proyecto realizado para la asignatura Acceso a datos.
 
 ### Ejemplo de demostracion:
-
+1. Inicio de sesión
+Muestra la pantalla principal de inicio de sesión. Los usuarios deben ingresar sus credenciales para acceder al sistema.
 ![Inicio de sesión](https://github.com/PabloVillagranGonz/Proyecto-Partes/blob/main/Imagenes/Inicio-Sesion.png)
 ![Inicio entrando como Profesor](https://github.com/PabloVillagranGonz/Proyecto-Partes/blob/main/Imagenes/Inicio-Profesor.png)
 ![Inicio entrando como Jefe de estudios](https://github.com/PabloVillagranGonz/Proyecto-Partes/blob/main/Imagenes/Inicio-JefeEstudios.png)
