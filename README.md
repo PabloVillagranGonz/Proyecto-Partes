@@ -1,4 +1,4 @@
-# Proyecto-Partes
+# Proyecto-Partes-Instituto
 
 ## Proyecto realizado para la asignatura Acceso a datos.
 El sistema Proyecto-Partes está diseñado para gestionar incidencias (partes) en un entorno educativo, permitiendo a profesores, jefes de estudios y otros usuarios llevar un control eficiente de los eventos dentro de la institución. Este documento incluye una descripción de las funcionalidades principales y ejemplos visuales del sistema.
